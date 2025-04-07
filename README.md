@@ -1,12 +1,13 @@
 
 
 # Hi, I'm Divyanshu Peswani 👋
-🎓 B.Tech CSE student @ Kalvium
-💻 Exploring the world of development & tech
+-🎓 B.Tech CSE student @ Kalvium     
+-💻 Exploring the world of development & tech
 
  ## 📫 Let's Connect
-Mail: divyanshupeswani@gmail.com
-LinkedIn: www.linkedin.com/in/divyanshu-peswani-297348344
+-Mail: divyanshupeswani@gmail.com  
+
+-LinkedIn: www.linkedin.com/in/divyanshu-peswani-297348344
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divya.nshu1218) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyanshu-peswani-297348344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshupeswani@gmail.com) 
